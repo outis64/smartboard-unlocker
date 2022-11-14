@@ -1,2 +1,2 @@
 # smartboard unlocker
- just shutdown the program and restart explorer. Only education purpose .d
+ just closes the program and restarts the explorer. For educational purposes only.
